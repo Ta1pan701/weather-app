@@ -64,3 +64,4 @@ fetch('https://api.open-meteo.com/v1/forecast?latitude=39.654&longitude=66.9597&
         console.log(weather);
 
     })
+console.log("hello world");
